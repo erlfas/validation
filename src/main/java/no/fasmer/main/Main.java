@@ -4,8 +4,8 @@ import no.fasmer.business.BigBusinessClass;
 import no.fasmer.business.BusinessInput;
 
 /**
- *
- * @author erlend321
+ * Validation example
+ * 
  */
 public class Main {
     
