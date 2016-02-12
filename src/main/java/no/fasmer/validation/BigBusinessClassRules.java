@@ -5,7 +5,6 @@ import java.util.List;
 
 /**
  *
- * @author erlend321
  */
 public class BigBusinessClassRules {
 

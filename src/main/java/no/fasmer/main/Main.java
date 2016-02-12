@@ -5,7 +5,6 @@ import no.fasmer.business.BusinessInput;
 
 /**
  * Validation example
- * 
  */
 public class Main {
     

@@ -4,7 +4,6 @@ import no.fasmer.validation.Input;
 
 /**
  *
- * @author erlend321
  */
 public class BusinessInput implements Input {
     

@@ -4,7 +4,6 @@ import no.fasmer.business.BusinessInput;
 
 /**
  *
- * @author erlend321
  */
 public class AddressRule implements Rule {
 

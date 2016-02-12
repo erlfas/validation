@@ -4,7 +4,6 @@ import no.fasmer.validation.BigBusinessClassRules;
 
 /**
  *
- * @author erlend321
  */
 public class BigBusinessClass {
 
